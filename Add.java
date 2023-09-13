@@ -2,8 +2,8 @@ public class Add{
   public static void main(String[] args) {
     int x = 5;
     int y = 6;
-    int sum = x * y;
+    int total = x + y;
 
-    System.out.println(sum); // Print the multiplication of x * y
+    System.out.println(sum); // Printing addition
   }
 }
