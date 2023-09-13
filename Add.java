@@ -3,6 +3,7 @@ public class Add{
     int x = 5;
     int y = 6;
     int sum = x * y;
-    System.out.println(sum); // Print the subtraction of x - y
+
+    System.out.println(sum); // Print the multiplication of x * y
   }
 }
